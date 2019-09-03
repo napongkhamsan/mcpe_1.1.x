@@ -13,7 +13,7 @@ os.system("clear")
 os.system("figlet Done! Install")
 print "==============================="
 print "Minecraft PE 1.1.5 Server Linux"
-print "By : Happy - Pocket"
+print "By : Admin - Farsai"
 print "==============================="
 print "Run your server use ./start.sh"
 os.system("rm Start.py")
